@@ -71,10 +71,10 @@ article p {
 
 }
 a {
-	color:#2f4b7c
+	color:#003f5c;
 }
 a:visited {
-	color:#2f4b7c
+	color:#003f5c;
 }
 main section {
 
@@ -85,7 +85,7 @@ footer {
 	margin: auto;
 	clear: both;
 	text-align: right;
-	color: #003f5c
+	color: #003f5c;
 }
 footer p {
 	padding: 20px;
