@@ -71,13 +71,10 @@ article p {
 
 }
 a {
-	color:#003f5c;
+	color:#9e9b9b;
 }
 a:visited {
 	color:#003f5c;
-}
-aside a {
-	color:#FFF
 }
 main section {
 
@@ -102,9 +99,6 @@ aside > div {
 	margin: 10px auto;
 	background: #003f5c;
 	min-height: 100px;
-	color: #FFF;
-}
-aside > div a {
 	color: #FFF;
 }
 #logo {
