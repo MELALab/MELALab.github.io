@@ -76,6 +76,9 @@ a {
 a:visited {
 	color:#003f5c;
 }
+aside a {
+	color:#f2f4f5
+}
 main section {
 
 }
