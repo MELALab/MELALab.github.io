@@ -104,6 +104,9 @@ aside > div {
 	min-height: 100px;
 	color: #FFF;
 }
+aside > div a {
+	color: #f2f4f5;
+}
 #logo {
     display: inline-block;
     vertical-align: middle;
