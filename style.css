@@ -139,6 +139,10 @@ body > section {
 	border: 2px solid #003f5c;
 }
 
+#collab p {
+	color:#ff6361;
+}
+
 @media screen and (max-width: 1000px) {
 	body > section {
 		padding: 30px 20px;
